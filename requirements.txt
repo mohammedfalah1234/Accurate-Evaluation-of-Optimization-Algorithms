@@ -1,0 +1,15 @@
+mealpy>=3.0.0
+
+niapy>=2.0.0
+
+gradio
+
+numpy
+
+scipy
+
+scikit-learn
+
+pandas
+
+plotly
